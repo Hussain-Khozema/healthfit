@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620655559525",
+    "firebase_url": "https://healthfit-b142a.firebaseio.com",
+    "project_id": "healthfit-b142a",
+    "storage_bucket": "healthfit-b142a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620655559525:android:9f971a4f9b88bcf429578c",
+        "android_client_info": {
+          "package_name": "com.healthfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620655559525-1jonn65283av13j02lb1rf249s57v2fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojt33wLyKuubRSMT_EtfjGsgtFk36pco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620655559525-1jonn65283av13j02lb1rf249s57v2fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
