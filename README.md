@@ -2,7 +2,18 @@
 
 # HealthFit
 
-> The application aims to keep track of user’s carbohydrate and calorie intake within the daily recommendation by the Nation Health Survey and provide convenience to planning their exercise routine.
+The application aims to keep track of user’s carbohydrate and calorie intake within the daily recommendation by the Nation Health Survey and provide convenience to planning their exercise routine.
+
+- Frontend: React Native
+- Backend: Firebase
+- API and datasets: [government](data.gov.sg), Google Maps, [US Health Database](health.gov)
+
+## Features
+
+- Calorie Tracker
+- Carbohydrate Tracker
+- Locations of Health Public Facilities
+- Food input
 
 ## Installation
 
